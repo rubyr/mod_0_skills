@@ -1,0 +1,49 @@
+1. Apply
+    1.1 Fill out application form
+        1.1.1 Fill in identity, contact info
+        1.1.2 Upload resume
+    1.2 Logic quiz
+2. Interview
+    2.1 Schedule Interview
+    2.2 Go into interview
+        2.2.1 Download Zoom app
+        2.2.2 Meet with interviewer
+        2.2.3 Do interview
+    2.3 Wait for final acceptance letter
+3. Finish application
+    3.1 Submit initial deposit
+    3.2 Fill out address
+    3.3 Get loan if needed
+        3.3.1 Apply to loaner of choice
+        3.3.2 Submit information
+        3.3.3 Wait
+        3.3.4 Upload documentation
+        3.3.5 Wait some more
+        3.3.6 Fill out final forms 
+    3.4 Sign enrollment agreement
+4. Pre-Work
+    4.1 Mod 0
+        4.1.1 Go through session 1
+            4.1.1.1 Take notes, respond to teacher questions, etc.
+        4.1.2 Do session 1 survey and homework
+        4.1.3 Repeat for each session
+    4.2 Capstone
+        4.2.1 Professional Development
+            4.2.1.1 Take Pairin survey
+            4.2.1.2 Watch video and read article
+            4.2.1.3 Reflect on questions
+            4.2.1.4 Read article and watch video
+            4.2.1.5 Reflect on questions
+        4.2.2 Gear Up
+            4.2.2.1 Read article 1
+            4.2.2.2 Read article 2
+            4.2.2.3 Read more articles, if wanted
+            4.2.2.4 Reflect on prompts
+        4.2.3 Technical
+            4.2.3.1 Set up computer
+            4.2.3.2 Do work for each day (day 0 - day 7)
+            4.2.3.3 Submit new pull request
+        4.2.4 Submit Capstone
+            4.2.4.1 Open survey link
+            4.2.4.2 Paste in links to gists and repo
+            4.2.4.3 Submit
