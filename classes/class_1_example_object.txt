@@ -1,0 +1,11 @@
+Mark
+
+name: "Mark"
+tables_waiting: [4, 5, 7, 2, 3]
+time_clocked_in: "March 13 2006 11:02:36 AM"
+on_break: false
+
+clock_in: time_clocked_in = "March 13 2006 11:34:45 AM"
+go_on_break: on_break = true
+wait_new_table: tables_waiting = [4, 5, 7, 2, 3, 6]
+close_table: tables_waiting = [4, 7, 2, 3, 6]
