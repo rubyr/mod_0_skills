@@ -1,0 +1,12 @@
+class Table
+
+number (integer)
+seats (integer)
+customers (array)
+bill (array)
+is_clean (boolean)
+
+is_free (returns true if customers is empty and is_clean is true)
+add_to_bill (adds an item to the bill)
+clean (clears the customers and bill arrays and sets is_clean to true)
+add_seat (increases seats by 1)
