@@ -1,0 +1,12 @@
+Table_3
+
+number: 3
+seats: 4
+customers: ["Jeff", "Sally", "Bill"]
+bill: ["Spaghetti", "Garlic Bread", "Salad"]
+is_clean: false
+
+is_free: false
+add_to_bill: bill = ["Spaghetti", "Garlic Bread", "Salad", "Chicken Parmesan"]
+clean: customers = [], bill = [], is_clean = true
+add_seat: seats = 5
