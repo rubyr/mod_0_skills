@@ -1,0 +1,11 @@
+class Waiter
+
+name (string)
+tables_waiting (array)
+time_clocked_in (string)
+on_break (boolean)
+
+clock_in (sets time_clocked_in variable to current time)
+go_on_break (sets on_break variable to true)
+wait_new_table (adds a table to wait on to tables_waiting)
+close_table (removes a table from tables_waiting)
